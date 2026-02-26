@@ -6,3 +6,4 @@ A new Flutter project.
 
 * 26-02-2026 - T101- Add flutter timer project
 * 26-02-2026 - T102- clean gradle files. 
+* 26-02-2026 - T103- generate apk file. 
